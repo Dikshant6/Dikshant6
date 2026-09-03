@@ -10,7 +10,7 @@
 
 ---
 
-## 🖤 About Me
+## About Me
 
 I'm a **3rd year BCA student** who enjoys understanding how things work
 under the hood rather than just making them work.
@@ -87,3 +87,20 @@ C++ Internals
 Memory Management → Pointers → STL Internals
         ↓
 Implementing Data Structures from Scratch
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dikshant6&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&icon_color=9B5CFF&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant6&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Dikshant6&theme=dark&hide_border=true&background=0D0D0D&ring=9B5CFF&fire=9B5CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888"/> </div>
+
+🌐 Connect With Me
+<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="45"/> </a>
+
+  
+
+<a href="YOUR_PORTFOLIO_URL"> <img src="https://skillicons.dev/icons?i=vercel" width="45"/> </a>
+
+  
+
+<a href="YOUR_GITHUB_URL"> <img src="https://skillicons.dev/icons?i=github" width="45"/> </a> </div>
+<div align="center">
+
+⚡ Build. Break. Understand. Rebuild.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f00ff,50:16002b,100:0d0d0d&height=100&section=footer"/> </div>
