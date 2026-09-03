@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Dikshu 👋
+# Hey, I'm Dikshant 👋
 
 ### 3rd Year BCA Student • Backend Developer • C++ Enthusiast
 
