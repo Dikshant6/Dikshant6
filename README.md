@@ -106,13 +106,13 @@ Implementing Data Structures from Scratch
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/dik6hant">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
   
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="dikshu.in">
   <img src="https://skillicons.dev/icons?i=vercel" width="45" />
 </a>
 
