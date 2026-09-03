@@ -2,99 +2,44 @@
 
 # Hey, I'm Dikshant 👋
 
-### 3rd Year BCA Student • Backend Developer • C++ Enthusiast
+**3rd Year BCA Student · Backend Developer · C++ Enthusiast**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16002b,100:6f00ff&height=120&section=header&text=Having%20Ikigai!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16002b,100:6f00ff&height=110&section=header&text=Having%20Ikigai!&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## About Me
+> Building things, breaking things, and understanding how they work underneath.
 
-I'm a **3rd year BCA student** who enjoys understanding how things work under the hood rather than just making them work.
-
-* 💻 Currently focused on **Backend & Full-Stack Development**
-* ⚙️ Building applications with **Node.js, Express.js & MongoDB**
-* 🧠 Exploring **Data Structures & Algorithms with Java**
-* 🧱 Implementing data structures from scratch in **C++**
-* 🔍 Interested in **memory management, system internals & clean architecture**
-* 🐧 Comfortable working in **Linux environments**
-* 🚀 Learning by building, breaking, debugging and rebuilding things
-
-> *"Don't just use the abstraction. Understand what's underneath it."*
+* ⚙️ Backend & Full-Stack Development
+* 🚀 Node.js · Express.js · MongoDB
+* 🧠 DSA with Java
+* 🧱 C++ · Memory Management · STL
+* 🐧 Linux & System Internals
+* ✨ Clean Architecture & Security
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages
+<p align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,nodejs,express,react,mongodb,mysql,git,github,linux,vscode" />
 
-### Backend & Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs,html,css,react" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🧠 Currently Exploring
-
-```text
-Backend Development
-        ↓
-Node.js → Express.js → MongoDB
-        ↓
-Authentication → Authorization → APIs
-        ↓
-Clean Architecture & Security
-
-        +
-
-DSA with Java
-        ↓
-Data Structures → Algorithms → Problem Solving
-
-        +
-
-C++ Internals
-        ↓
-Memory Management → Pointers → STL Internals
-        ↓
-Implementing Data Structures from Scratch
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dikshant6&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&icon_color=9B5CFF&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dikshant6&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&icon_color=9B5CFF&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant6&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&text_color=FFFFFF" />
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant6&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B5CFF&text_color=FFFFFF" />
 
 <br>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Dikshant6&theme=dark&hide_border=true&background=0D0D0D&ring=9B5CFF&fire=9B5CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
 
@@ -102,36 +47,28 @@ Implementing Data Structures from Scratch
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<div align="center">
+<p align="center">
 
-<a href="www.linkedin.com/in/dik6hant">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://www.linkedin.com/in/dik6hant">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-
-  
-
-<a href="dikshu.in">
-  <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+&nbsp;&nbsp;
+<a href="https://dikshu.in">
+  <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/Dikshant6">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 
-</div>
-
----
+</p>
 
 <div align="center">
 
-### ⚡ Build. Break. Understand. Rebuild.
+**⚡ Build. Break. Understand. Rebuild.**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f00ff,50:16002b,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f00ff,50:16002b,100:0d0d0d&height=80&section=footer" width="100%"/>
 
 </div>
